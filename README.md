@@ -1,2 +1,2 @@
 # Data-Science-Handbook
-Jupyter notebooks based on the book
+Jupyter notebooks based on the book Data Science Handbook
