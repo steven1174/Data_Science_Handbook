@@ -1,2 +1,2 @@
-# Data-Science-Handbook
-Jupyter notebooks based on the book Data Science Handbook
+# Data_Science_Handbook
+Jupyter notebooks based on Data Science Handbook book by Jake VanderPlass
